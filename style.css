@@ -7,11 +7,12 @@ body {
 
 .container {
   max-width: 700px;
-  margin: 0 auto;
-  background: white;
+  margin: 40px auto;
+  background: #dff5dc;
   padding: 25px;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+  border: 3px solid #d4af37;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
 }
 
 h1, h2 {
