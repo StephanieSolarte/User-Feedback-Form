@@ -19,6 +19,17 @@ h1, h2 {
   margin-bottom: 10px;
 }
 
+h1 {
+  text-align: center;
+  color: #1f4d2b;
+}
+
+.subtitle {
+  text-align: center;
+  color: #355e3b;
+  margin-bottom: 20px;
+}
+
 .subtitle {
   color: #555;
   margin-bottom: 20px;
