@@ -98,9 +98,9 @@ button:hover {
 }
 
 .feedback-entry {
-  background: #f9fafb;
-  border: 1px solid #ddd;
-  border-radius: 8px;
+  background: #edfbe8;
+  border: 2px solid #d4af37;
+  border-radius: 16px;
   padding: 12px;
   margin-top: 12px;
 }
